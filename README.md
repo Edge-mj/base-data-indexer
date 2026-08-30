@@ -13,7 +13,7 @@ High-performance data query pipelines mapping block emissions, event data logs, 
       "source": {
         "address": "0xaA95...Contract",
         "abi": "AggregatorABI",
-        "startBlock": 5000000
+        "startBlock": 5000005
       }
     }
   ]
